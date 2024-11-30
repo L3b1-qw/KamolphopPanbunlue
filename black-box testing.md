@@ -22,4 +22,4 @@
 - : การทดสอบโปรแกรมของตัวเองโดยใส่ค่า input หรือ การคลิกเช็คปุ่มที่สามารถทำงานได้ถูกต้องหรือไม่
 
 - # URL
-- : https://github.com/mater3214/Pasin.github.io/tree/676266d745fffc475053256a1f724627e438e65e
+- : https://mater3214.github.io/Pasin.github.io/black-box-testing
