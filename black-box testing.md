@@ -1,4 +1,3 @@
-# 6530250301 นายกมลภพ ปานบุญลือ
 # Black-box testing
 # CISSP Glossary - Student Guide
 - ChatGPT :
@@ -23,3 +22,5 @@
 
 # URL
 - : https://mater3214.github.io/Pasin.github.io/black-box-testing
+
+- 6530250301 นายกมลภพ ปานบุญลือ
